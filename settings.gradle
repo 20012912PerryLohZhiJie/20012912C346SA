@@ -1,0 +1,2 @@
+rootProject.name = "C346SA"
+include ':app'
